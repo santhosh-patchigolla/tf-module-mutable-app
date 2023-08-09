@@ -1,5 +1,5 @@
 variable "COMPONENT" {}
-variable "ENV" {}
+
 
 
 
